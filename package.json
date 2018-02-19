@@ -1,0 +1,15 @@
+{
+  "name": "babel-plugin-replace-only-development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "babel ./test/index.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.40",
+    "@babel/core": "^7.0.0-beta.40",
+    "axios": "^0.17.1"
+  },
+  "dependencies": {}
+}
