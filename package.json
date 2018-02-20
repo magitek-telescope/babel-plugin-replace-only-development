@@ -1,15 +1,26 @@
 {
   "name": "babel-plugin-replace-only-development",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "repository": "potato4d/babel-plugin-replace-only-development",
+  "author": "HANATANI Takuma <mail@potato4d.me>",
   "license": "MIT",
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "ast"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
   "scripts": {
     "test": "babel ./test/index.js"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.40",
-    "@babel/core": "^7.0.0-beta.40",
-    "axios": "^0.17.1"
+    "axios": "^0.17.1",
+    "babel-cli": "^6.26.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
 }

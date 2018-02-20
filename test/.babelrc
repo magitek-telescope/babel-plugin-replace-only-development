@@ -1,7 +1,7 @@
 {
   "plugins": [
     [
-      "../src/index.js",
+      "../lib/index.js",
       {
         "rules": {
           "https://api.example.com": "http://localhost:3000"
