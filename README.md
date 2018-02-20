@@ -2,7 +2,7 @@
 
 process.env.NODE_ENV based simple replacement plugin.
 
-This plugin is an example for LT of metaprogram study session [metapro.js](https://connpass.com/event/77100/).
+This plugin is an example for LT of metaprogram study session [metapro.es](https://connpass.com/event/77100/).
 
 ## Usage
 
