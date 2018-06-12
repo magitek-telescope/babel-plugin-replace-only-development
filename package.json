@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-replace-only-development",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "main": "lib/index.js",
   "repository": "potato4d/babel-plugin-replace-only-development",
   "author": "HANATANI Takuma <mail@potato4d.me>",
